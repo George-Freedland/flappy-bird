@@ -63,12 +63,13 @@ def main():
                 if event.key == pygame.K_UP:
                     player.bounce()
             if event.type == pygame.KEYDOWN and gameOver.getValue() == True:
-                if event.key == pygame.K_r:
+                if event.key == pygame.K_SPACE:
                     gameOver.setValue(False)
                     player.reset()
                     score.setValue(0)
                     enemies = []
                     enemies.append(Enemy(SCREEN_WIDTH))
+                    timeConfig = TimeConfig()
                
         # ****************************************************************        
         # Handle Game Objects
