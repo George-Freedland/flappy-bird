@@ -1,5 +1,7 @@
-# Snake
-Simple Snake Game with pygame
+# Flappy Bird
+Simple Flappy Bird clone with pygame
+#
+Press r to restart
 #
 Make sure to pip install pygame
 #
