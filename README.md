@@ -1,8 +1,8 @@
 # Flappy Bird
 Simple Flappy Bird clone with pygame
 #
-Press r to restart
-#
 Make sure to pip install pygame
 #
-To play run python3 main.py
+To play run `python3 main.py` or just `python main.py`
+#
+Press r to restart
