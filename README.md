@@ -1,5 +1,5 @@
 # Flappy Bird
-Simple Flappy Bird clone with pygame.
+Flappy Bird clone with Python (w/ pygame).
 #
 Make sure to run `pip install pygame` in your command line.
 #
